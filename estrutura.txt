@@ -1,0 +1,36 @@
+Listagem de caminhos de pasta
+O número de série do volume é C8DD-D74C
+C:.
+|   .gitattributes
+|   estrutura.txt
+|   README.md
+|   
++---data
+|       biodiesel-materia-prima.csv
+|       
++---notebooks
+|       projeto_mp_biodiesel.ipynb
+|       
++---projeto_biocomb
+|       01_create_tables.sql
+|       02_insert_meses.sql
+|       03_insert_anos.sql
+|       04_insert_regioes.sql
+|       05_insert_estados.sql
+|       06_insert_produtos.sql
+|       07_insert_biocombustiveis.sql
+|       08_create_views.sql
+|       biodiesel-materia-prima.csv
+|       DER_projeto.png
+|       Projeto_MPBiodisel.ipynb
+|       
+\---sql
+        01_create_tables.sql
+        02_insert_meses.sql
+        03_insert_anos.sql
+        04_insert_regioes.sql
+        05_insert_estados.sql
+        06_insert_produtos.sql
+        07_insert_biocombustiveis.sql
+        08_create_views.sql
+        

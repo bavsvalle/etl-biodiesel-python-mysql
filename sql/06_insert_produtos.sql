@@ -1,0 +1,14 @@
+INSERT INTO produtos (produto) values ('acido graxo de oleo de soja');
+INSERT INTO produtos (produto) values ('gordura bovina');
+INSERT INTO produtos (produto) values ('gordura de frango');
+INSERT INTO produtos (produto) values ('gordura de porco');
+INSERT INTO produtos (produto) values ('oleo de algodao (gossypium hirsut)');
+INSERT INTO produtos (produto) values ('oleo de colza/canola (bressica campestris)');
+INSERT INTO produtos (produto) values ('oleo de fritura usado');
+INSERT INTO produtos (produto) values ('oleo de milho');
+INSERT INTO produtos (produto) values ('oleo de palma/dende (elaeis guineensis ou elaeis o');
+INSERT INTO produtos (produto) values ('oleo de soja (glycine max)');
+INSERT INTO produtos (produto) values ('outros materiais graxos');
+INSERT INTO produtos (produto) values ('oleo de palmiste');
+INSERT INTO produtos (produto) values ('acido graxo de oleo de palma / dende');
+INSERT INTO produtos (produto) values ('oleo de girassol (hellanthus annus)');

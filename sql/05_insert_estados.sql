@@ -1,0 +1,14 @@
+INSERT INTO estados (estado) values ('goias');
+INSERT INTO estados (estado) values ('mato grosso');
+INSERT INTO estados (estado) values ('sao paulo');
+INSERT INTO estados (estado) values ('bahia');
+INSERT INTO estados (estado) values ('para');
+INSERT INTO estados (estado) values ('rondonia');
+INSERT INTO estados (estado) values ('minas gerais');
+INSERT INTO estados (estado) values ('parana');
+INSERT INTO estados (estado) values ('rio grande do sul');
+INSERT INTO estados (estado) values ('santa catarina');
+INSERT INTO estados (estado) values ('rio de janeiro');
+INSERT INTO estados (estado) values ('tocantins');
+INSERT INTO estados (estado) values ('mato grosso do sul');
+INSERT INTO estados (estado) values ('piaui');

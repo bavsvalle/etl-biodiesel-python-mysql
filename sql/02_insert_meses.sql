@@ -1,0 +1,12 @@
+INSERT INTO meses (mes) VALUES ('8');
+INSERT INTO meses (mes) VALUES ('7');
+INSERT INTO meses (mes) VALUES ('6');
+INSERT INTO meses (mes) VALUES ('5');
+INSERT INTO meses (mes) VALUES ('4');
+INSERT INTO meses (mes) VALUES ('3');
+INSERT INTO meses (mes) VALUES ('2');
+INSERT INTO meses (mes) VALUES ('1');
+INSERT INTO meses (mes) VALUES ('12');
+INSERT INTO meses (mes) VALUES ('11');
+INSERT INTO meses (mes) VALUES ('10');
+INSERT INTO meses (mes) VALUES ('9');

@@ -1,0 +1,19 @@
+.gitattributes
+
+# Ignorar arquivos de dados
+data/* linguist-detectable=false
+*.csv linguist-detectable=false
+*.xlsx linguist-detectable=false
+
+# Contar notebooks como Python
+*.ipynb linguist-language=Python
+
+# Garantir que arquivos Python sempre entrem na contagem
+*.py linguist-detectable=true
+
+# Garantir que arquivos SQL entrem na contagem
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+
+# Documentação não conta como código
+*.md linguist-documentation
