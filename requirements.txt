@@ -1,7 +1,4 @@
-mysql-connector-python==9.6.0
+notebook==7.6.3
 numpy==2.4.3
-packaging @ file:///home/task_176104885106445/conda-bld/packaging_1761049078006/work
 pandas==3.0.1
-python-dateutil==2.9.0.post0
-six==1.17.0
 Unidecode==1.4.0
